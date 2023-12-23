@@ -1,16 +1,16 @@
 {
-  "name": "chatgpt",
-  "version": "2.0.0",
+  "name": "One AI",
+  "version": "1.0.0",
   "type": "module",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/eyucoder/chatgpt-clone"
+    "url": "https://github.com/Piyush280204/One-AI"
   },
   "author": {
-    "name": "eyucoder",
-    "email": "eyueldaniel0921@gmail.com",
-    "url": "https://github.com/eyucoder"
+    "name": "Piyush",
+    "email": "Piyush.A.Kale@protonmail.com",
+    "url": "https://github.com/Piyush280204"
   },
   "scripts": {
     "dev": "vite",
