@@ -13,19 +13,19 @@ const options = ['ChatGPT', 'DALL·E'];
 const gptModel = ['gpt-3.5-turbo', 'gpt-4'];
 const template = [
   {
-    title: 'Plan a trip',
+    title: 'Planning A Trip?',
     prompt: 'I want to plan a trip to New York City.',
   },
   {
-    title: 'how to make a cake',
+    title: 'Bake A Cake?',
     prompt: 'How to make a cake with chocolate and strawberries?',
   },
   {
-    title: 'Business ideas',
+    title: 'Need Business Ideas?',
     prompt: 'Generate 5 business ideas for a new startup company.',
   },
   {
-    title: 'What is recursion?',
+    title: 'Need Help Studying?',
     prompt: 'What is recursion? show me an example in python.',
   },
 ];
