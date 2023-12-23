@@ -139,12 +139,12 @@ const ChatView = () => {
         <a
           onClick={() => setGpt(gptModel[0])}
           className={`${gpt == gptModel[0] && 'tab-active'} tab`}>
-          GPT-3.5
+          3.5 Mode
         </a>
         <a
           onClick={() => setGpt(gptModel[1])}
           className={`${gpt == gptModel[1] && 'tab-active'} tab`}>
-          GPT-4
+          4 Mode
         </a>
       </div>
 
