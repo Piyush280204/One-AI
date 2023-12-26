@@ -47,7 +47,7 @@ const SideBar = () => {
             !open && 'scale-0 hidden'
           } flex flex-row items-center gap-2 mx-auto w-full`}>
           <img src={bot} alt='logo' className='w-6 h-6' />
-          <h1 className={` ${!open && 'scale-0 hidden'}`}>ChatGPT</h1>
+          <h1 className={` ${!open && 'scale-0 hidden'}`}>One AI</h1>
         </div>
         <div
           className='mx-auto btn btn-square btn-ghost'
