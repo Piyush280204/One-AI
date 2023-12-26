@@ -13,7 +13,7 @@ ChatGPT-Pro is an advanced application that combines the power of ChatGPT and DA
 [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/EyuCoder/chatgpt-clone&project-name=chatgpt-and-dalle&repo-name=chatgpt-clone)
 
 
-**Give it a ⭐ if you liked it 😜**
+**Give it a ⭐ if you liked it **
 
 ### Features
 
