@@ -17,8 +17,8 @@ ChatGPT-Pro is an advanced application that combines the power of ChatGPT and DA
 
 ### Features
 
-- [x] gpt 3.5 and 4
-- [x] dall.e image generator
+- [x] GPT 3.5 and 4
+- [x] DALL.E Image Generator
 - [x] save chat to localstorage
 - [x] chat context
 
